@@ -7,6 +7,7 @@
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=arthur-cost&theme=dark&hide_border=false)<br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cost&layout=compact&theme=radical" alt="Top Langs"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arthur-cost&icon=0&color=0)](https://visitcount.itsvg.in)
