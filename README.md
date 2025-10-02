@@ -4,7 +4,7 @@ Sou um desenvolvedor em constante evolução, focado em transformar problemas re
 Atualmente, dedico-me ao aprendizado e à prática com .NET, Angular e outras ferramentas do ecossistema web.<br>
 Acredito que linha por linha de código, construo um novo aprendizado.
 
-<br/><br>
+
 
 ## 🌐 Sociais:
 
