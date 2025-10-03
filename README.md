@@ -19,7 +19,7 @@ Acredito que linha por linha de código, construo um novo aprendizado.
 
 # 💻 Estou Aprendendo: 
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,php,python" />
+<img src="https://skillicons.dev/icons?i=cs,php,dotnet,angular,ts,js,html,css,python" />
  
 # Tools:
 <div display: "flex">
