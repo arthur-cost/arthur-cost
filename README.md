@@ -1,4 +1,4 @@
-#  Sobre mim
+#  Sobre mim 
 
 Sou um desenvolvedor em constante evolução, focado em transformar problemas reais em soluções tecnológicas.<br>
 Atualmente, dedico-me ao aprendizado e à prática com .NET, Angular e outras ferramentas do ecossistema web.<br>
