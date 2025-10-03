@@ -6,7 +6,7 @@ Acredito que linha por linha de código, construo um novo aprendizado.
 
 
 
-### 🌐 Sociais:
+### 🌐Contato:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arthr.ac) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arthur-aguiar-costa-17a975248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthuraguiarcosta5@gmail.com) 
 
