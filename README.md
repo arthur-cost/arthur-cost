@@ -33,11 +33,9 @@ Acredito que linha por linha de código, construo um novo aprendizado.
 <br/><br>
 
 # 📊 Status:
-
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=arthur-cost&theme=dark&hide_border=false" alt="GitHub Streak"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cost&layout=compact&theme=dark" alt="Top Langs"/>
-</div>
+ 
+![](https://nirzak-streak-stats.vercel.app/?user=arthur-cost&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cost&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D5B7F,100:4A90E2&height=120&section=footer"/>
