@@ -29,7 +29,7 @@ Acredito que linha por linha de código, construo um novo aprendizado.
 
 <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,figma,postman" />
 
-</div>
+</div> 
 <br/><br>
 
 # 📊 Status:
