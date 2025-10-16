@@ -15,7 +15,7 @@ Acredito que linha por linha de código, construo um novo aprendizado.
 
 # 🎯 Próximos Objetivos
 
--  Aprofundar conhecimentos em **ASP.NET Core** ✅
+-  Aprofundar conhecimentos em **ASP.NET Core** ⏳
 -  Dominar **Angular** com foco em performance e boas práticas ⏳
 -  Explorar **arquitetura de microserviços** e **Docker**
 -  Desenvolver projetos full-stack completos
