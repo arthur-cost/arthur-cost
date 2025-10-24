@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=header"/>
 
-### Sobre mim 
+## Sobre mim 
 
 Sou um desenvolvedor em constante evolução, focado em transformar problemas reais em soluções tecnológicas.<br>
 Atualmente, dedico-me ao aprendizado e à prática com .NET, Angular e outras ferramentas do ecossistema web.<br>
@@ -8,7 +8,7 @@ Acredito que linha por linha de código, construo um novo aprendizado.
 
 
 
-## 🌐 Contato
+### 🌐 Contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arthr.ac) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-aguiar-costa-17a975248) 
