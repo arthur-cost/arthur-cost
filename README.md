@@ -12,16 +12,7 @@ Acredito que linha por linha de código, construo um novo aprendizado.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arthr.ac) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-aguiar-costa-17a975248) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthuraguiarcosta5@gmail.com)
-
-
-
-## 🎯 Próximos Objetivos
-
-- 🔄 **Aprofundar conhecimentos em ASP.NET Core**
-- 🔄 **Dominar Angular** com foco em performance e boas práticas  
-- 🎯 Explorar **arquitetura de microserviços** e **Docker**
-- 🚀 Desenvolver projetos full-stack completos
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthuraguiarcosta5@gmail.com)</br>
 
 
 
